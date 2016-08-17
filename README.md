@@ -1,6 +1,5 @@
 @karim33
-
-    You will translate the following mockup to \`HTML\`.
+### You will translate the following mockup to `HTML`.
 
      
 
