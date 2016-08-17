@@ -5,9 +5,6 @@
 
 ### Project Instructions
 
-Read Article to Mockup [Project
-Rubric](<https://review.udacity.com/#!/projects/7359899771/rubric>)
-
 1.  fork this project to your github, then do a pull request. You'll
     find `article.html`, the article mockup image and a file called`
     README.md` inside.
